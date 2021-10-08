@@ -1,19 +1,20 @@
 body {
-    background-color: #ffff;
+  background-color: #ffff;
 }
+
 .jumbotron {
   padding-top: 5rem;
-  background-color: #06c8f8);
+  background-color: #ffff;
 }
 
 #About {
-    background-color: #06c8f8;
+  background-color: #06c8f8;
 }
 
 #contact {
-    background-color: #06c8f8;
+  background-color: #06c8f8;
 }
 
 section {
-    padding-top: 5rem;
+  padding-top: 5rem;
 }
